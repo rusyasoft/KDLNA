@@ -1,0 +1,1500 @@
+<class-diagram version="1.0.11" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.ActionArgument" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/ActionArgument.java" binary="false">    
+    <position height="418" width="343" x="-525" y="2866"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.DeviceIdentity" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/DeviceIdentity.java" binary="false">    
+    <position height="231" width="190" x="1575" y="1814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.LocalService" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/LocalService.java" binary="false">    
+    <position height="384" width="659" x="-534" y="643"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.ModelDetails" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/ModelDetails.java" binary="false">    
+    <position height="299" width="213" x="2393" y="2527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.DeviceDetails" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/DeviceDetails.java" binary="false">    
+    <position height="673" width="504" x="1847" y="1814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.LocalDevice" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/LocalDevice.java" binary="false">    
+    <position height="605" width="589" x="535" y="1169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.RemoteDeviceIdentity" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/RemoteDeviceIdentity.java" binary="false">    
+    <position height="265" width="306" x="1786" y="2527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.ManufacturerDetails" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/ManufacturerDetails.java" binary="false">    
+    <position height="214" width="188" x="2165" y="2527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.Device" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/Device.java" binary="false">    
+    <position height="962" width="419" x="1702" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.Service" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/Service.java" binary="false">    
+    <position height="418" width="328" x="146" y="185"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.RemoteDevice" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/RemoteDevice.java" binary="false">    
+    <position height="486" width="619" x="1041" y="643"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.RemoteService" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/RemoteService.java" binary="false">    
+    <position height="231" width="553" x="-100" y="1169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.StateVariableTypeDetails" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/StateVariableTypeDetails.java" binary="false">    
+    <position height="282" width="427" x="-121" y="2866"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.Action" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/Action.java" binary="false">    
+    <position height="401" width="296" x="-457" y="1814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.StateVariableEventDetails" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/StateVariableEventDetails.java" binary="false">    
+    <position height="214" width="221" x="535" y="2866"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.ActionArgument.Direction" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/ActionArgument.java" binary="false">    
+    <position height="112" width="120" x="-417" y="3324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.QueryStateVariableAction" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/QueryStateVariableAction.java" binary="false">    
+    <position height="180" width="379" x="-645" y="2527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.StateVariable" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/StateVariable.java" binary="false">    
+    <position height="299" width="372" x="535" y="2527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.StateVariableAllowedValueRange" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/meta/StateVariableAllowedValueRange.java" binary="false">    
+    <position height="265" width="427" x="-121" y="3324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.Icon" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/Icon.java" binary="false">    
+    <position height="503" width="329" x="1206" y="1814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.meta.UDAVersion" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/meta/UDAVersion.java" binary="false">    
+    <position height="180" width="171" x="575" y="1814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DLNADoc" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/DLNADoc.java" binary="false">    
+    <position height="248" width="314" x="5346" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.HostPort" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/HostPort.java" binary="false">    
+    <position height="248" width="136" x="5122" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.NamedServiceType" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/NamedServiceType.java" binary="false">    
+    <position height="180" width="209" x="6432" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="25" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DLNACaps" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/DLNACaps.java" binary="false">    
+    <position height="180" width="154" x="6761" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="26" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.SoapActionType" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/SoapActionType.java" binary="false">    
+    <position height="-1" width="-1" x="8891" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="27" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.BinHexDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/BinHexDatatype.java" binary="false">    
+    <position height="129" width="167" x="8781" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="28" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UnsignedVariableInteger" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/UnsignedVariableInteger.java" binary="false">    
+    <position height="299" width="381" x="4925" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="29" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UDN" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UDN.java" binary="false">    
+    <position height="248" width="193" x="5575" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.BooleanDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/BooleanDatatype.java" binary="false">    
+    <position height="129" width="195" x="8546" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="31" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.NotificationSubtype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/NotificationSubtype.java" binary="false">    
+    <position height="214" width="193" x="5496" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="32" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.ServiceId" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/ServiceId.java" binary="false">    
+    <position height="231" width="610" x="4925" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="33" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DeviceType" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/DeviceType.java" binary="false">    
+    <position height="316" width="664" x="10970" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="34" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.ErrorCode" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/ErrorCode.java" binary="false">    
+    <position height="435" width="265" x="5928" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="35" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UDAServiceId" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UDAServiceId.java" binary="false">    
+    <position height="163" width="648" x="5721" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="36" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UDADeviceType" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UDADeviceType.java" binary="false">    
+    <position height="146" width="614" x="10970" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="37" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UnsignedIntegerFourBytes" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerFourBytes.java" binary="false">    
+    <position height="112" width="188" x="6721" y="1610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="38" corner="BOTTOM_RIGHT" language="java" 
+    name="org.teleal.cling.model.types.UnsignedVariableInteger.Bits" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UnsignedVariableInteger.java" binary="false">    
+    <position height="180" width="123" x="6411" y="2351"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="39" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UDAServiceType" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/UDAServiceType.java" binary="false">    
+    <position height="146" width="618" x="6955" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="40" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.Datatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/Datatype.java" binary="false">    
+    <position height="163" width="195" x="8525" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="41" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.StringDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/StringDatatype.java" binary="false">    
+    <position height="95" width="129" x="10126" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="42" corner="BOTTOM_RIGHT" language="java" 
+    name="org.teleal.cling.model.types.UnsignedIntegerTwoBytesDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerTwoBytesDatatype.java" binary="false">    
+    <position height="95" width="228" x="6472" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="43" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.ShortDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/ShortDatatype.java" binary="false">    
+    <position height="112" width="195" x="10693" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="44" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UnsignedIntegerTwoBytes" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerTwoBytes.java" binary="false">    
+    <position height="112" width="187" x="6411" y="1610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="45" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.UnsignedIntegerOneByte" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerOneByte.java" binary="false">    
+    <position height="112" width="180" x="7884" y="1610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="46" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.CharacterDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/CharacterDatatype.java" binary="false">    
+    <position height="112" width="195" x="9656" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="47" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.AbstractDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/AbstractDatatype.java" binary="false">    
+    <position height="-1" width="-1" x="9671" y="353"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="48" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DoubleDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/DoubleDatatype.java" binary="false">    
+    <position height="112" width="195" x="9891" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="49" corner="BOTTOM_RIGHT" language="java" 
+    name="org.teleal.cling.model.types.UnsignedIntegerOneByteDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerOneByteDatatype.java" binary="false">    
+    <position height="95" width="221" x="7924" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="50" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.CustomDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/CustomDatatype.java" binary="false">    
+    <position height="146" width="139" x="10770" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="51" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.FloatDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/FloatDatatype.java" binary="false">    
+    <position height="112" width="195" x="9421" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="52" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DLNADoc.Version" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/DLNADoc.java" binary="false">    
+    <position height="146" width="123" x="5346" y="1610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="53" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.Datatype.Default" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/Datatype.java" binary="false">    
+    <position height="486" width="237" x="8185" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="54" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.Base64Datatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/Base64Datatype.java" binary="false">    
+    <position height="129" width="167" x="9214" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="55" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.ServiceType" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/ServiceType.java" binary="false">    
+    <position height="316" width="668" x="7594" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="56" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.DateTimeDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/DateTimeDatatype.java" binary="false">    
+    <position height="197" width="186" x="8988" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="57" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.Datatype.Builtin" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/Datatype.java" binary="false">    
+    <position height="-1" width="-1" x="8500" y="2077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="58" corner="BOTTOM_RIGHT" language="java" 
+    name="org.teleal.cling.model.types.UnsignedIntegerFourBytesDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/UnsignedIntegerFourBytesDatatype.java" binary="false">    
+    <position height="95" width="229" x="7634" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="59" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.NamedDeviceType" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/NamedDeviceType.java" binary="false">    
+    <position height="180" width="201" x="10970" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="60" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.URIDatatype" project="kdlna" 
+    file="/kdlna/src/org/teleal/cling/model/types/URIDatatype.java" binary="false">    
+    <position height="95" width="123" x="10530" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="61" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.IntegerDatatype" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/IntegerDatatype.java" binary="false">    
+    <position height="197" width="195" x="10295" y="1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="62" corner="BOTTOM_RIGHT" language="java" name="org.teleal.cling.model.types.InvalidValueException" 
+    project="kdlna" file="/kdlna/src/org/teleal/cling/model/types/InvalidValueException.java" binary="false">    
+    <position height="-1" width="-1" x="9040" y="1711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="64">    
+    <bendpoint x="-586" y="643"/>    
+    <bendpoint x="-628" y="1169"/>    
+    <bendpoint x="-628" y="1814"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <association id="66">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="67" name="dlnaCaps"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <generalization id="70">    
+    <bendpoint x="176" y="643"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="1816" y="185"/>    
+    <bendpoint x="1816" y="643"/>    
+    <bendpoint x="1816" y="1169"/>    
+    <bendpoint x="1816" y="1814"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="73">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="10918" y="1084"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="75">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="77">    
+    <bendpoint x="8494" y="728"/>    
+    <bendpoint x="8494" y="1084"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <nesting id="78">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="79">    
+    <bendpoint x="-194" y="2527"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="80" name="arguments"/>      
+      <multiplicity id="81" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="82">    
+    <bendpoint x="9110" y="728"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="87">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="88">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="89">    
+    <bendpoint x="544" y="1814"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="92">    
+    <bendpoint x="8515" y="1084"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="95">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="96">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="97">    
+    <bendpoint x="-697" y="2527"/>    
+    <bendpoint x="-697" y="1814"/>    
+    <bendpoint x="-697" y="1169"/>    
+    <bendpoint x="-697" y="643"/>    
+    <bendpoint x="-697" y="185"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="98">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="99">    
+    <bendpoint x="1795" y="1169"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="100">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="101">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="103">    
+    <bendpoint x="2381" y="185"/>    
+    <bendpoint x="2381" y="643"/>    
+    <bendpoint x="2381" y="1169"/>    
+    <bendpoint x="2381" y="1814"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="105">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <association id="108">    
+    <bendpoint x="8473" y="1084"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="109" name="datatype"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="112" name="serviceId"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="114">    
+    <bendpoint x="9881" y="728"/>    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <association id="115">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="116" name="manufacturerDetails"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="118">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="119">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <association id="120">    
+    <bendpoint x="1732" y="1169"/>    
+    <bendpoint x="1732" y="643"/>    
+    <bendpoint x="1732" y="185"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="121" name="device"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <nesting id="124">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <dependency id="125">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <association id="127">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="128" name="dlnaDocs"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="131">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <association id="132">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="133" name="deviceType"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <bendpoint x="5798" y="728"/>    
+    <bendpoint x="5690" y="1084"/>    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="136" name="builtin"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="138">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <generalization id="142">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <dependency id="143">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="144">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="145">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="148">    
+    <bendpoint x="6441" y="728"/>    
+    <bendpoint x="6441" y="1084"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="149">    
+    <bendpoint x="-152" y="1169"/>    
+    <bendpoint x="-110" y="1814"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="151">    
+    <bendpoint x="483" y="1169"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="152">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="153">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="154">    
+    <bendpoint x="1690" y="643"/>    
+    <bendpoint x="1690" y="1169"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="155">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="156" name="type"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="158">    
+    <bendpoint x="9444" y="728"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="160">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="161">    
+    <bendpoint x="11614" y="1084"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <association id="162">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="163" name="udn"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="166" name="udn"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="168">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="169">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="170">    
+    <bendpoint x="989" y="643"/>    
+    <bendpoint x="1154" y="1169"/>    
+    <bendpoint x="1154" y="1814"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="171" name="stateVariables"/>      
+      <multiplicity id="172" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <association id="174">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="175" name="type"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="177">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="178">    
+    <bendpoint x="-152" y="2527"/>    
+    <bendpoint x="-152" y="2866"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="179">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="180" name="builtinType"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="183" name="allowedValueRange"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="185">    
+    <bendpoint x="8889" y="728"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <association id="186">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="187" name="datatype"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="189">    
+    <bendpoint x="8473" y="728"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="190">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="191">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="194">    
+    <bendpoint x="1175" y="1169"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <association id="195">    
+    <bendpoint x="-173" y="2527"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="196" name="action"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="198">    
+    <bendpoint x="1380" y="185"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="199">    
+    <bendpoint x="1196" y="1169"/>    
+    <bendpoint x="1175" y="1814"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="200">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="201">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="202">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="203">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="204" name="direction"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="206">    
+    <bendpoint x="504" y="185"/>    
+    <bendpoint x="504" y="643"/>    
+    <bendpoint x="504" y="1169"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="207" name="version"/>      
+      <multiplicity id="208" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="209">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="210" name="modelDetails"/>      
+      <multiplicity id="211" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="212">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="213">    
+    <bendpoint x="10939" y="728"/>    
+    <bendpoint x="10939" y="1084"/>    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="214">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="215">    
+    <bendpoint x="6420" y="1084"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="216">    
+    <bendpoint x="155" y="643"/>    
+    <bendpoint x="-131" y="1169"/>    
+    <bendpoint x="-131" y="1814"/>    
+    <bendpoint x="-131" y="2527"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="217">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <dependency id="218">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="219">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="220">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="221">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <association id="222">    
+    <bendpoint x="1837" y="185"/>    
+    <bendpoint x="1837" y="643"/>    
+    <bendpoint x="1837" y="1169"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="223" name="details"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="225">    
+    <bendpoint x="9679" y="728"/>    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="226">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="227">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <generalization id="228">    
+    <bendpoint x="9763" y="728"/>    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="229">    
+    <bendpoint x="1217" y="1169"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="230">    
+    <bendpoint x="-236" y="2527"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="231" name="outputArguments"/>      
+      <multiplicity id="232" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="233">    
+    <bendpoint x="11664" y="728"/>    
+    <bendpoint x="11664" y="1084"/>    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="234">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="235">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <generalization id="236">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <dependency id="237">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="238">    
+    <bendpoint x="-565" y="643"/>    
+    <bendpoint x="-565" y="1169"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="239" name="actions"/>      
+      <multiplicity id="240" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="241">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <nesting id="242">    
+    <bendpoint x="8452" y="1084"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="57"/>  
+  </nesting>  
+  <dependency id="243">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="244">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="245" name="eventDetails"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="247">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="248">    
+    <bendpoint x="1774" y="185"/>    
+    <bendpoint x="1774" y="643"/>    
+    <bendpoint x="1774" y="1169"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <generalization id="249">    
+    <bendpoint x="9327" y="728"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="250">    
+    <bendpoint x="-607" y="185"/>    
+    <bendpoint x="-607" y="643"/>    
+    <bendpoint x="-607" y="1169"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="251">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="252">    
+    <bendpoint x="9007" y="728"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="253">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="254">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="255">    
+    <bendpoint x="-215" y="2527"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="256" name="inputArguments"/>      
+      <multiplicity id="257" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="258">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="259">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="260">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <generalization id="261">    
+    <bendpoint x="1010" y="643"/>    
+    <bendpoint x="1010" y="185"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="262">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <dependency id="263">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <realization id="264">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="40"/>  
+  </realization>  
+  <dependency id="265">    
+    <bendpoint x="-364" y="1814"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <generalization id="266">    
+    <bendpoint x="8433" y="728"/>    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="267">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="268">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="269">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="270" name="udn"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="272">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="273">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="274">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <generalization id="275">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="55"/>  
+  </generalization>  
+  <dependency id="276">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="277">    
+    <bendpoint x="226" y="1814"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="278">    
+    <bendpoint x="7893" y="1084"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <nesting id="279">    
+    <bendpoint x="5315" y="1610"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <dependency id="280">    
+    <bendpoint x="1753" y="1169"/>    
+    <bendpoint x="1795" y="1814"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="281">    
+    <bendpoint x="-676" y="2527"/>    
+    <bendpoint x="-676" y="1814"/>    
+    <bendpoint x="-676" y="1169"/>    
+    <bendpoint x="-676" y="643"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="282">    
+    <bendpoint x="9223" y="728"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="283">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <generalization id="284">    
+    <bendpoint x="9963" y="728"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <association id="285">    
+    <bendpoint x="1711" y="185"/>    
+    <bendpoint x="1711" y="643"/>    
+    <bendpoint x="1711" y="1169"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="286" name="icons"/>      
+      <multiplicity id="287" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="288">    
+    <bendpoint x="7563" y="728"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="289">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="290">    
+    <bendpoint x="-487" y="1169"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <generalization id="291">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <dependency id="292">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="293">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="294">    
+    <bendpoint x="6730" y="1084"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="295">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="296" name="serviceType"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="298">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="299">    
+    <bendpoint x="-556" y="2866"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="300">    
+    <bendpoint x="7603" y="1084"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <generalization id="301">    
+    <bendpoint x="9561" y="728"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="302">    
+    <bendpoint x="6399" y="1084"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <association id="303">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="304" name="serviceType"/>      
+      <multiplicity id="305" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="306">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="53"/>  
+  </nesting>  
+  <dependency id="307">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <generalization id="308">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <dependency id="309">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="310">    
+    <bendpoint x="2402" y="185"/>    
+    <bendpoint x="2402" y="643"/>    
+    <bendpoint x="2402" y="1169"/>    
+    <bendpoint x="2402" y="1814"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="311">    
+    <bendpoint x="-586" y="1169"/>    
+    <bendpoint x="-586" y="1814"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
